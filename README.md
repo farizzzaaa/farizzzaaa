@@ -2,7 +2,7 @@
 
 
 
-### I'm a beginner RPA Developer.
+### I'm a junior QA engeneer.
 
 - <br>
 - Connect with me:
